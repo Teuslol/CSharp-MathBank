@@ -1,0 +1,4 @@
+C:\xampp\htdocs\Alura\Array_Collections_C-aula05\Contas-Banco\Banco-conta\Banco-conta\obj\Debug\net6.0\Banco-conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Alura\Array_Collections_C-aula05\Contas-Banco\Banco-conta\Banco-conta\obj\Debug\net6.0\Banco-conta.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Alura\Array_Collections_C-aula05\Contas-Banco\Banco-conta\Banco-conta\obj\Debug\net6.0\Banco-conta.AssemblyInfo.cs
+C:\xampp\htdocs\Alura\Array_Collections_C-aula05\Contas-Banco\Banco-conta\Banco-conta\obj\Debug\net6.0\Banco-conta.csproj.CoreCompileInputs.cache
